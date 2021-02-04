@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\VerzweigungenUndSteuerelemente\VerzweigungenUndSteuerelemente\bin\Debug\VerzweigungenUndSteuerelemente.exe.config
+C:\Users\b\source\repos\VerzweigungenUndSteuerelemente\VerzweigungenUndSteuerelemente\bin\Debug\VerzweigungenUndSteuerelemente.exe
+C:\Users\b\source\repos\VerzweigungenUndSteuerelemente\VerzweigungenUndSteuerelemente\bin\Debug\VerzweigungenUndSteuerelemente.pdb
+C:\Users\b\source\repos\VerzweigungenUndSteuerelemente\VerzweigungenUndSteuerelemente\obj\Debug\VerzweigungenUndSteuerelemente.csprojAssemblyReference.cache
+C:\Users\b\source\repos\VerzweigungenUndSteuerelemente\VerzweigungenUndSteuerelemente\obj\Debug\VerzweigungenUndSteuerelemente.Form1.resources
+C:\Users\b\source\repos\VerzweigungenUndSteuerelemente\VerzweigungenUndSteuerelemente\obj\Debug\VerzweigungenUndSteuerelemente.Properties.Resources.resources
+C:\Users\b\source\repos\VerzweigungenUndSteuerelemente\VerzweigungenUndSteuerelemente\obj\Debug\VerzweigungenUndSteuerelemente.csproj.GenerateResource.cache
+C:\Users\b\source\repos\VerzweigungenUndSteuerelemente\VerzweigungenUndSteuerelemente\obj\Debug\VerzweigungenUndSteuerelemente.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\VerzweigungenUndSteuerelemente\VerzweigungenUndSteuerelemente\obj\Debug\VerzweigungenUndSteuerelemente.exe
+C:\Users\b\source\repos\VerzweigungenUndSteuerelemente\VerzweigungenUndSteuerelemente\obj\Debug\VerzweigungenUndSteuerelemente.pdb
